@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/WVTrafficCam/static/css/main.16af11ab.css",
-    "main.js": "/WVTrafficCam/static/js/main.70e7ea4d.js",
+    "main.js": "/WVTrafficCam/static/js/main.31db3e84.js",
     "static/js/787.6ac94c0e.chunk.js": "/WVTrafficCam/static/js/787.6ac94c0e.chunk.js",
     "static/media/logo.svg": "/WVTrafficCam/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/WVTrafficCam/index.html",
+    "static/media/playlist.m3u8": "/WVTrafficCam/static/media/playlist.53643465a63479748a64.m3u8",
     "main.16af11ab.css.map": "/WVTrafficCam/static/css/main.16af11ab.css.map",
-    "main.70e7ea4d.js.map": "/WVTrafficCam/static/js/main.70e7ea4d.js.map",
+    "main.31db3e84.js.map": "/WVTrafficCam/static/js/main.31db3e84.js.map",
     "787.6ac94c0e.chunk.js.map": "/WVTrafficCam/static/js/787.6ac94c0e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.16af11ab.css",
-    "static/js/main.70e7ea4d.js"
+    "static/js/main.31db3e84.js"
   ]
 }
